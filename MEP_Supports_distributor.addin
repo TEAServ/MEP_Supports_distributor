@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command MEP_Supports_distributor</Text>
+    <Description>Some description for MEP_Supports_distributor</Description>
+    <Assembly>MEP_Supports_distributor.dll</Assembly>
+    <FullClassName>MEP_Supports_distributor.Command</FullClassName>
+    <ClientId>a383c2a3-aa9a-4d1f-880e-96fdfad3ddc9</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application MEP_Supports_distributor</Name>
+    <Assembly>MEP_Supports_distributor.dll</Assembly>
+    <FullClassName>MEP_Supports_distributor.App</FullClassName>
+    <ClientId>e27bb7cb-ae12-4819-bb74-b62e65dc4539</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
