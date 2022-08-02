@@ -7,7 +7,7 @@
     <FullClassName>MEP_Supports_distributor.Command</FullClassName>
     <ClientId>a383c2a3-aa9a-4d1f-880e-96fdfad3ddc9</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
-    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+    <VendorDescription>sherif ahmed elzagal, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
   <AddIn Type="Application">
     <Name>Application MEP_Supports_distributor</Name>
