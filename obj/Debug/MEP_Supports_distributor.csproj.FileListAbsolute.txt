@@ -4,3 +4,9 @@ E:\omar amen\repos\MEP_Supports_distributor\MEP_Supports_distributor\obj\Debug\M
 E:\omar amen\repos\MEP_Supports_distributor\MEP_Supports_distributor\obj\Debug\MEP_Supports_distributor.csproj.CoreCompileInputs.cache
 E:\omar amen\repos\MEP_Supports_distributor\MEP_Supports_distributor\obj\Debug\MEP_Supports_distributor.dll
 E:\omar amen\repos\MEP_Supports_distributor\MEP_Supports_distributor\obj\Debug\MEP_Supports_distributor.pdb
+D:\Repos\bin\Debug\MEP_Supports_distributor.dll
+D:\Repos\bin\Debug\MEP_Supports_distributor.pdb
+D:\Repos\obj\Debug\MEP_Supports_distributor.csproj.AssemblyReference.cache
+D:\Repos\obj\Debug\MEP_Supports_distributor.csproj.CoreCompileInputs.cache
+D:\Repos\obj\Debug\MEP_Supports_distributor.dll
+D:\Repos\obj\Debug\MEP_Supports_distributor.pdb
