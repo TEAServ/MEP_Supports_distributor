@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\obj",
+    "\\Properties"
   ],
-  "SelectedNode": "\\D:\\Repos",
+  "SelectedNode": "\\MEP_Supports_distributor.addin",
   "PreviewInSolutionExplorer": false
 }
